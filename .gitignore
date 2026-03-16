@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# PDFs (not tracked — see references/README.md for links)
+*.pdf
+
+# PyTorch model weights
+*.pt
+*.pth
+
+# Editor
+.vscode/
+.DS_Store
+Thumbs.db
